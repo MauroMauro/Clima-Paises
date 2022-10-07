@@ -8,13 +8,13 @@ https://mauromauro.github.io/clima-paises/
 
 ### Características 📋
 
-Clonar y ejecutar:
-_
-git clone https://github.com/MauroMauro/clima-paises.git
-cd clima-paises && cd clima-paises
-npm install
-npm start
-_
+Clonar y ejecutar
+
+_git clone https://github.com/MauroMauro/clima-paises.git _
+_cd clima-paises && cd clima-paises_
+_npm install_
+_npm start_
+
 
 
 Sobre el proyecto
@@ -46,4 +46,6 @@ _API pública https://restcountries.com_
 
 * **Blur Benitez** 
 2022
+_ Agradecimiento especial a https://fullstackopen.com/ _
+_ Se implementaron algunos de los conocimientos adquiridos en tal curso. _
 

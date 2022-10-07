@@ -8,7 +8,7 @@ const Country = ({ country }) => {
     const capital = country.capital[0]
 
     useEffect(() => {
-        const url = `http://api.openweathermap.org/data/2.5/weather?q=${capital}&appid=03510dcbbd2767d5a737a8ef991f5f1d&units=metric`
+        const url = `https://api.openweathermap.org/data/2.5/weather?q=${capital}&appid=03510dcbbd2767d5a737a8ef991f5f1d&units=metric`
         axios.get(url).then(({ data }) => {
             setWeather(data)
         })

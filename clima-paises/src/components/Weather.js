@@ -3,7 +3,7 @@
 const Weather = ({ weather, city }) => {
     if (weather === null) return null
 
-    const icon = `http://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`
+    const icon = `https://openweathermap.org/img/wn/${weather.weather[0].icon}@2x.png`
 
     return <div>
         <div class="card p-4">

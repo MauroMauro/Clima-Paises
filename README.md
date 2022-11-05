@@ -55,8 +55,6 @@ _API pública https://restcountries.com_
 
 ---
 
-_Agradecimiento especial a https://fullstackopen.com/_
 
-
-_Se implementaron algunos de los conocimientos adquiridos en tal curso._
+_Se implementaron algunos de los conocimientos adquiridos en el curso https://fullstackopen.com/_._
 

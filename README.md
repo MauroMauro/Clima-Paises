@@ -50,11 +50,11 @@ _API pública https://restcountries.com_
 
 ## Autor ✒️
 
-* **Blur Benitez** 
-2022
+* **Mauricio German Benitez** 
+2023
 
 ---
 
 
-_Se implementaron algunos de los conocimientos adquiridos en el curso https://fullstackopen.com/_._
+_Se implementaron algunos de los conocimientos adquiridos en el curso https://fullstackopen.com/_
 

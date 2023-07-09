@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/clima-paises/static/js/main.7f68c799.js",
+    "main.js": "/clima-paises/static/js/main.faa8c984.js",
     "index.html": "/clima-paises/index.html",
-    "main.7f68c799.js.map": "/clima-paises/static/js/main.7f68c799.js.map"
+    "main.faa8c984.js.map": "/clima-paises/static/js/main.faa8c984.js.map"
   },
   "entrypoints": [
-    "static/js/main.7f68c799.js"
+    "static/js/main.faa8c984.js"
   ]
 }
